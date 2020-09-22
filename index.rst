@@ -24,8 +24,6 @@ Daniel's notes on anything
 .. toctree::
    :maxdepth: 2
    :caption: Notebooks : Mathematics
-
-   Software <http://notes.daniel-williams.co.uk/software>
    
 .. toctree::
    :maxdepth: 2
