@@ -14,8 +14,10 @@ Daniel's notes on anything
    :maxdepth: 2
    :caption: Notebooks : Physics
 
+   Classical Mechanics <http://notes.daniel-williams.co.uk/mechanics>
    Gravity & Gravitation <http://notes.daniel-williams.co.uk/gravity>
    Statistical Mechanics <http://notes.daniel-williams.co.uk/statmech>
+   Plasma Mechanics <http://notes.daniel-williams.co.uk/plasma>
 
 .. toctree::
    :maxdepth: 2

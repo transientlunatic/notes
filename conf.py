@@ -19,7 +19,7 @@ import kentigern
 
 # -- Project information -----------------------------------------------------
 
-project = "Daniel's User Manual for Everything"
+project = "Daniel's notes on things"
 copyright = '2020, Daniel Williams'
 author = 'Daniel Williams'
 
